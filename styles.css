@@ -1,0 +1,23 @@
+h1 {
+    text-align: left;
+    color: whitesmoke;
+    background-color: darkslategrey;
+}
+
+span {
+    color: aqua;
+}
+
+h2 {
+    font-style: italic;
+    color: whitesmoke;
+    text-align: center;
+    background-color: palevioletred;
+}
+
+h3 {
+    text-decoration: underline;
+    color: purple;
+    background-color: mediumaquamarine;
+    text-align: right;
+}
